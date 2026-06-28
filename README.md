@@ -82,5 +82,6 @@ The application features a robust authentication system.
 <br/>
 <br/>
 
-## Safe Content Verification :- The system is tuned to minimize "False Positives," correctly identifying legitimate communication as safe.
+## Safe Content Verification :- 
+### The system is tuned to minimize "False Positives," correctly identifying legitimate communication as safe.
 <img width="1436" height="610" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/26eeba6b-8ae1-4a85-9727-cb7bb8fe2a22" />
