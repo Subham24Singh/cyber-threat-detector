@@ -5,7 +5,7 @@ This starter project includes:
 ## 🚀 Features
 - **Email Phishing Detector:** ML-based analysis of email content.
 - **Link Heuristics:** Detects raw IP addresses and abnormally long URLs.
-- **Typosquatting Intelligence:** Flags domains that mimic popular brands (e.g., `rnicrosoft.com`).
+- **Typosquatting Intelligence:** Flags domains that mimic popular brands.
 - **Modern Dashboard:** Built with React, Tailwind CSS, and Lucide Icons.
 - **Dockerized:** Entire system runs with a single command.
 
