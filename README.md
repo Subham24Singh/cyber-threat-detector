@@ -16,10 +16,10 @@ This starter project includes:
 - **DevOps:** Docker, Docker Compose.
 
 ## Run locally
-
 ```bash
 git clone https://github.com/Subham24Singh/Cyber-Threat-Detector.git
 cd Cyber-Threat-Detector
+```
 
 ### Backend
 
