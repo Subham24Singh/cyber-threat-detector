@@ -17,6 +17,10 @@ This starter project includes:
 
 ## Run locally
 
+```bash
+git clone https://github.com/Subham24Singh/Cyber-Threat-Detector.git
+cd Cyber-Threat-Detector
+
 ### Backend
 
 ```bash
